@@ -1,0 +1,57 @@
+2024-10-03 10:56:28,887 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-03 10:56:31,431 INFO  [main] Navigating to page: https://www.saucedemo.com
+2024-10-03 10:56:32,089 INFO  [main] Navigating to page: https://www.saucedemo.com/
+2024-10-03 10:56:32,209 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='username']
+2024-10-03 10:56:32,394 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='password']
+2024-10-03 10:56:32,573 INFO  [main] Finding element with locator: By.xpath: //input[@id='login-button']
+2024-10-03 10:56:32,751 INFO  [main] Finding element with locator: By.xpath: //span[@class='title' and text()='Products']
+2024-10-03 10:56:32,841 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Backpack']]
+2024-10-03 10:56:32,972 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Bolt T-Shirt']]
+2024-10-03 10:56:33,054 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:33,146 INFO  [main] Finding element with locator: By.id: checkout
+2024-10-03 10:56:33,243 INFO  [main] Finding element with locator: By.id: first-name
+2024-10-03 10:56:33,351 INFO  [main] Finding element with locator: By.id: last-name
+2024-10-03 10:56:33,473 INFO  [main] Finding element with locator: By.id: postal-code
+2024-10-03 10:56:33,617 INFO  [main] Finding element with locator: By.id: continue
+2024-10-03 10:56:33,740 INFO  [main] Finding element with locator: By.xpath: //*[contains(@class,'cart_button')]
+2024-10-03 10:56:33,856 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:33,920 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-03 10:56:33,952 INFO  [main] Finding element with locator: By.className: complete-header
+2024-10-03 10:56:34,010 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:34,097 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:34,141 INFO  [main] Closing Browser...
+2024-10-03 10:56:34,349 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-03 10:56:35,907 INFO  [main] Navigating to page: https://www.saucedemo.com
+2024-10-03 10:56:36,417 INFO  [main] Navigating to page: https://www.saucedemo.com/
+2024-10-03 10:56:36,509 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='username']
+2024-10-03 10:56:36,682 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='password']
+2024-10-03 10:56:36,828 INFO  [main] Finding element with locator: By.xpath: //input[@id='login-button']
+2024-10-03 10:56:36,998 INFO  [main] Finding element with locator: By.xpath: //span[@class='title' and text()='Products']
+2024-10-03 10:56:37,080 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Backpack']]
+2024-10-03 10:56:37,195 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Bolt T-Shirt']]
+2024-10-03 10:56:37,273 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:37,359 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-03 10:56:37,377 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:37,448 INFO  [main] Closing Browser...
+2024-10-03 10:56:37,586 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-03 10:56:39,056 INFO  [main] Navigating to page: https://www.saucedemo.com
+2024-10-03 10:56:39,519 INFO  [main] Navigating to page: https://www.saucedemo.com/
+2024-10-03 10:56:39,705 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='username']
+2024-10-03 10:56:39,892 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='password']
+2024-10-03 10:56:40,035 INFO  [main] Finding element with locator: By.xpath: //input[@id='login-button']
+2024-10-03 10:56:40,200 INFO  [main] Finding element with locator: By.xpath: //span[@class='title' and text()='Products']
+2024-10-03 10:56:40,288 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Backpack']]
+2024-10-03 10:56:40,413 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Bolt T-Shirt']]
+2024-10-03 10:56:40,516 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:40,603 INFO  [main] Finding element with locator: By.id: checkout
+2024-10-03 10:56:40,708 INFO  [main] Finding element with locator: By.id: first-name
+2024-10-03 10:56:40,814 INFO  [main] Finding element with locator: By.id: last-name
+2024-10-03 10:56:40,931 INFO  [main] Finding element with locator: By.id: postal-code
+2024-10-03 10:56:41,043 INFO  [main] Finding element with locator: By.id: continue
+2024-10-03 10:56:41,162 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-03 10:56:41,223 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-03 10:56:41,240 INFO  [main] Finding all element with locator: By.className: inventory_item_price
+2024-10-03 10:56:41,311 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-03 10:56:41,355 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-03 10:56:41,380 INFO  [main] Finding element with locator: By.className: summary_total_label
+2024-10-03 10:56:41,440 INFO  [main] Closing Browser...
